@@ -30,8 +30,8 @@ main > iframe {
   left: 50%;
   transform: translate(-50%, -49%);
   width: 254px;
-  height: 570px;
-  border-radius: 30px;
+  height: 560px;
+  border-radius: 25px;
 }
 
 /* Tela de 270 x 480 */
